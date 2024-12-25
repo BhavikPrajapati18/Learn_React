@@ -5,7 +5,7 @@ function github() {
 
   const [data, setdata] = useState([])
 
-  useEffect(()=>{
+  useEffect(()=>{ 
     fetch('https://api.github.com/users/BhavikPrajapati18')
     .then( response => response.json() )
     .then(data =>{
