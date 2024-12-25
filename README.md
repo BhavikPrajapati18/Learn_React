@@ -1,1 +1,2 @@
-##Learning React js from chai aur code
+# Learning React js from chai aur code
+--> Practicing mini projects
